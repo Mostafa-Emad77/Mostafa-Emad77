@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa-emad77&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa-emad77" /> </p>
 
-- 🌱 I’m currently learning **LangChain**
+- 🌱 I’m currently learning **GenAI**
 
 - 📫 How to reach me **mostafa.maroof@hotmail.com**
 
