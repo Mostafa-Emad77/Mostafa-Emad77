@@ -10,52 +10,86 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafa-emad77&show_icons=true&theme=transparent&rank_icon=github" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-emad77&layout=compact&hide_progress=true&theme=transparent" height="160" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mostafa-emad77&show_icons=true&theme=transparent&rank_icon=github" height="160" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mostafa-emad77&layout=compact&hide_progress=true&theme=transparent" height="160" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- AI engineer passionate about **computer vision**, **LLMs**, and **production-ready AI systems**.  
-- Learning **GenAI scaling**, **VLM architectures**, and **efficient inference techniques**.  
-- Interested in **shipping real AI products**, not just experiments.  
+- AI engineer passionate about **computer vision**, **LLMs**, and **production-ready AI**.
+- Learning **GenAI scaling**, **VLM architectures**, and **efficient inference**.
+- Focused on **shipping real AI products**, not just experiments.
 - Open to **collaboration**, **research**, and **freelance AI projects**.
 
 ---
 
-## 🔧 What I Work With
+## 🧠 What I Work With
 
-### 🧠 Machine Learning / Deep Learning
-- **PyTorch**, TensorFlow, scikit-learn, OpenCV  
-- Vision models, embeddings, transformers, retrieval systems  
+### Machine Learning / Deep Learning
+- PyTorch, TensorFlow, scikit-learn, OpenCV
 
-### 🗂️ Data & Analytics
+### Data & Analytics
 - Pandas, Seaborn  
 - SQL (MySQL, MSSQL), MongoDB  
 
-### ⚙️ Tools & Platforms
+### Tools & Platforms
 - Docker, Node.js, Postman  
-- Google Cloud (GCP), GPU workflows  
-- n8n automations, APIs, MLOps basics  
+- GCP, APIs, n8n automations  
 
 ---
 
 ## ⭐ Featured Projects
 
-### 🔍 Vision AI for Missing Children  
-Face & clothing search engine for child identification, lead generation, and case support.  
-Built with **deep visual embeddings**, **vector search**, and **real-time retrieval**.
+### 🚗 Autonomous Car Navigation (OpenCV + ArUco + Voice Assistant)
+**Computer vision–based autonomous navigation system** using ArUco marker detection, lane guidance, and voice-controlled driving.
+- Built with **OpenCV**, **Python**, and voice command modules.
+- Implements real-time path following and decision-making.
+🔗 Repo: [`Autonomous-Car-Navigation-using-ArUco-Markers-and-Voice-Assistant`](https://github.com/Mostafa-Emad77/Autonomous-Car-Navigation-using-ArUco-Markers-and-Voice-Assistant)
 
-### 🤖 LLM + Automation Pipelines  
-Cost-optimized **n8n workflows** powered by GPT models for:  
-- Text processing, triage, and routing  
-- Lead scoring & smart decision engines  
-- Production-grade automation tasks  
+---
 
-### 💬 Streamlit Marketing Assistant  
-A live marketing assistant powered by OpenAI + Streamlit.  
-🔗 **Repo:** https://github.com/Mostafa-Emad77/Streamlit-powered-marketing-assistant
+### 🆔 Egyptian ID Extraction (OCR + Image Alignment)
+Automated extraction of Egyptian ID card fields using **image preprocessing**, **ROI segmentation**, and **OCR**.
+- Fixes rotation, noise, and lighting issues.
+- Extracts structured fields (Name, Address, ID number, etc.).
+🔗 Repo: [`Egyptian-ID-Extraction`](https://github.com/Mostafa-Emad77/Egyptian-ID-Extraction)
+
+---
+
+### 🎙️ Arabic Speech-to-SQL Voice Assistant  
+A full Arabic voice assistant that converts speech → SQL → answer using:
+- **Speech recognition**,  
+- **MySQL database integration**,  
+- **Python backend**,  
+- Web interface support.
+🔗 Repo: [`Arabic-Speech-to-SQL-Voice-Assistant`](https://github.com/Mostafa-Emad77/Arabic-Speech-to-SQL-Voice-Assistant)
+
+---
+
+### 💼 CareerGenie — AI CV Analyzer & Job Matcher  
+AI-powered platform that analyzes CVs and recommends the best job paths based on:
+- Skills extraction  
+- Career trajectory prediction  
+- Job matching algorithms  
+🔗 Repo: [`CareerGenie`](https://github.com/Mostafa-Emad77/CareerGenie)
+
+---
+
+### 📚 BookBot — AI Book Recommendation Assistant  
+Interactive AI that recommends books based on genre, mood, interests, and reading patterns.
+- Built using **TypeScript** & modern AI pipelines.
+🔗 Repo: [`BookBot-AI-Book-Recommendation-Assistant`](https://github.com/Mostafa-Emad77/BookBot-AI-Book-Recommendation-Assistant)
+
+---
+
+### 👶 Little Teacher — AI-Powered Interactive PDF Tutor  
+Turns any children’s PDF into:
+- A **chatbot tutor**
+- Adaptive, interactive Q&A  
+- Content-based learning suggestions  
+Built using **Streamlit**, **Python**, and document parsing.
+🔗 Repo: [`Little-Teacher-AI-Powered-Interactive-PDF-Chatbot`](https://github.com/Mostafa-Emad77/Little-Teacher-AI-Powered-Interactive-PDF-Chatbot)
 
 ---
 
@@ -63,30 +97,25 @@ A live marketing assistant powered by OpenAI + Streamlit.
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="36" />
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="36" />
 
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="36" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="36" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="36" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="36" />
+  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" height="36" />
+  <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/logo/opencv-logo.svg" height="36" />
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="36" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="36" />
+  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" height="36" />
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="36" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="36" />
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="36" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="36" />
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="36" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="36" />
 </p>
-
----
-
-## 📫 Let's Connect  
-Feel free to reach out for collaboration, freelance work, or interesting AI ideas!
-
