@@ -2,16 +2,19 @@
 <h3 align="center">Data Scientist & AI Developer</h3>
 
 <p align="center">
-  <a href="mailto:mostafa.maroof@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact-success?style=flat&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/mostafa-emad-al-din-5361831b9"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://kaggle.com/mostafaemad123"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/mostafa_maroof"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat&logo=hackerrank&logoColor=white" /></a>
+  <a href="mailto:mostafa.maroof@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/mostafa-emad-al-din-5361831b9">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://kaggle.com/mostafaemad123">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/mostafa_maroof">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat&logo=hackerrank&logoColor=white" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=mostafa-emad77&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mostafa-emad77&show_icons=true&theme=transparent&rank_icon=github" height="160" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mostafa-emad77&layout=compact&hide_progress=true&theme=transparent" height="160" />
 </p>
 
 ---
