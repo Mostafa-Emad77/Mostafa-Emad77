@@ -1,124 +1,83 @@
-<h1 align="center">👋 Hi, I'm Mostafa Emad Al-Din</h1>
-<h3 align="center">Data Scientist & AI Developer</h3>
+<div align="Center">
+<img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
 
-<p align="center">
-  <a href="mailto:mostafa.maroof@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
-  </a>
-  <a href="https://linkedin.com/in/mostafa-emad-al-din-5361831b9">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://kaggle.com/mostafaemad123">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/mostafa_maroof">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat&logo=hackerrank&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=mostafa-emad77&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<div align="center">
+
+<a href="https://github.com/Mostafa-Emad77">
+<img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
+</a>
+
+[![GitHub Followers](https://img.shields.io/github/followers/Mostafa-Emad77?label=Follow&style=social)](https://github.com/Mostafa-Emad77)
+[![GitHub Stars](https://img.shields.io/github/stars/Mostafa-Emad77?style=social)](https://github.com/Mostafa-Emad77)
+
+</div>
 
 ---
 
-## 🚀 About Me
-- AI engineer passionate about **computer vision**, **LLMs**, and **production-ready AI**.
-- Learning **GenAI scaling**, **VLM architectures**, and **efficient inference**.
-- Focused on **shipping real AI products**, not just experiments.
-- Open to **collaboration**, **research**, and **freelance AI projects**.
+🌱 Currently immersed in building **AI-powered systems**, specializing in  
+**NLP, LLMs, RAG pipelines, vector search, speech recognition, and FastAPI microservices.**
+
+💻 Passionately working on **Arabic LLM fine-tuning**, **LegalTech AI**, and **voice-enabled learning systems**.
+
+📚 Always exploring new AI research, open-source LLMs, and model optimization techniques.
 
 ---
 
-## 🧠 What I Work With
+<div align="Center">
+<h1>Skills</h1>
+</div>
 
-### Machine Learning / Deep Learning
-- PyTorch, TensorFlow, scikit-learn, OpenCV
+<div align="Center">
 
-### Data & Analytics
-- Pandas, Seaborn  
-- SQL (MySQL, MSSQL), MongoDB  
+| AI / Machine Learning | Backend & Tools |
+| --------------------- | --------------- |
+| <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch"/> | <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,github"/> |
 
-### Tools & Platforms
-- Docker, Node.js, Postman  
-- GCP, APIs, n8n automations  
+| Web & Scripting | Data & NLP |
+| --------------- | ------------ |
+| <img src="https://skillicons.dev/icons?i=js,html,css"/> | <img src="https://skillicons.dev/icons?i=regex"/> |
 
----
-
-## ⭐ Featured Projects
-
-### 🚗 Autonomous Car Navigation (OpenCV + ArUco + Voice Assistant)
-**Computer vision–based autonomous navigation system** using ArUco marker detection, lane guidance, and voice-controlled driving.
-- Built with **OpenCV**, **Python**, and voice command modules.
-- Implements real-time path following and decision-making.
-🔗 Repo: [`Autonomous-Car-Navigation-using-ArUco-Markers-and-Voice-Assistant`](https://github.com/Mostafa-Emad77/Autonomous-Car-Navigation-using-ArUco-Markers-and-Voice-Assistant)
+</div>
 
 ---
 
-### 🆔 Egyptian ID Extraction (OCR + Image Alignment)
-Automated extraction of Egyptian ID card fields using **image preprocessing**, **ROI segmentation**, and **OCR**.
-- Fixes rotation, noise, and lighting issues.
-- Extracts structured fields (Name, Address, ID number, etc.).
-🔗 Repo: [`Egyptian-ID-Extraction`](https://github.com/Mostafa-Emad77/Egyptian-ID-Extraction)
+<div align="Center">
+<h1>Operating Systems</h1>
+
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu"/>
+
+</div>
 
 ---
 
-### 🎙️ Arabic Speech-to-SQL Voice Assistant  
-A full Arabic voice assistant that converts speech → SQL → answer using:
-- **Speech recognition**,  
-- **MySQL database integration**,  
-- **Python backend**,  
-- Web interface support.
-🔗 Repo: [`Arabic-Speech-to-SQL-Voice-Assistant`](https://github.com/Mostafa-Emad77/Arabic-Speech-to-SQL-Voice-Assistant)
+| Snake Eating Contributions in the last year |
+| ------------------------------------------- |
+| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) |
+
+<div align="Center">
+
+| Mostafa's Stats | Ultimate Streak |
+| ------------- | ------------- |
+| ![Mostafa's Stats](https://github-readme-stats.vercel.app/api?username=Mostafa-Emad77&theme=onedark&show_icons=true&hide_border=true&count_private=true) | ![Mostafa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mostafa-Emad77&theme=onedark&hide_border=true) |
+
+| Most Used Languages |
+| ---------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Emad77&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
+
+</div>
 
 ---
 
-### 💼 CareerGenie — AI CV Analyzer & Job Matcher  
-AI-powered platform that analyzes CVs and recommends the best job paths based on:
-- Skills extraction  
-- Career trajectory prediction  
-- Job matching algorithms  
-🔗 Repo: [`CareerGenie`](https://github.com/Mostafa-Emad77/CareerGenie)
+<div align="Center">
+<h1>Contacts</h1>
 
----
+| Contact Me |
+| ---------- |
+| <a href="mailto:mostafa.maroof@hotmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎ <a href="https://www.linkedin.com/in/mostafa-emad-al-din-5361831b9/"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a> ‎ ‎ ‎ ‎ <a href="https://discord.com/users/yourdiscordid"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
 
-### 📚 BookBot — AI Book Recommendation Assistant  
-Interactive AI that recommends books based on genre, mood, interests, and reading patterns.
-- Built using **TypeScript** & modern AI pipelines.
-🔗 Repo: [`BookBot-AI-Book-Recommendation-Assistant`](https://github.com/Mostafa-Emad77/BookBot-AI-Book-Recommendation-Assistant)
+</div>
 
----
+------
 
-### 👶 Little Teacher — AI-Powered Interactive PDF Tutor  
-Turns any children’s PDF into:
-- A **chatbot tutor**
-- Adaptive, interactive Q&A  
-- Content-based learning suggestions  
-Built using **Streamlit**, **Python**, and document parsing.
-🔗 Repo: [`Little-Teacher-AI-Powered-Interactive-PDF-Chatbot`](https://github.com/Mostafa-Emad77/Little-Teacher-AI-Powered-Interactive-PDF-Chatbot)
-
----
-
-## 🛠️ Languages & Tools
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="36" />
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="36" />
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="36" />
-  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" height="36" />
-  <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/logo/opencv-logo.svg" height="36" />
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="36" />
-  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" height="36" />
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="36" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="36" />
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="36" />
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="36" />
-</p>
+Credit: Adapted from [CtorW](https://github.com/CtorW)  
+Last Edited: 2025
