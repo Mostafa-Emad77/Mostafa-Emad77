@@ -72,6 +72,6 @@ Exploring modern AI research, model optimization, and open-source integrations.
 
 | Contact Me |
 | ---------- |
-| <a href="mailto:mostafa.maroof@hotmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a>     <a href="https://www.linkedin.com/in/mostafa-emad-al-din-5361831b9/"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a>     <a href="https://discord.com/users/yourdiscordid"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
+| <a href="mailto:mostafa.maroof@hotmail.com"> <img src="https://skillicons.dev/icons?i=azure"/> </a>     <a href="https://www.linkedin.com/in/mostafa-emad-al-din-5361831b9/"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a> |
 
 </div>
