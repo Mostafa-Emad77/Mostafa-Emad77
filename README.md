@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm an AI / NLP Engineer focused on building AI-powered systems, including LLMs, RAG pipelines, vector search, speech recognition, OCR, and FastAPI microservices.</h1>
 <h3 align="center">Currently working on Arabic LLM fine-tuning, LegalTech AI pipelines, and voice-enabled learning systems. Exploring modern AI research, model optimization, and open-source integrations.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa-emad77&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa-emad77" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafa-emad77" alt="mostafa-emad77" /></a> </p>
 
