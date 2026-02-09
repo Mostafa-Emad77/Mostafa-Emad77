@@ -1,26 +1,93 @@
-<h1 align="center">Hi 👋, I'm an AI / NLP Engineer focused on building AI-powered systems, including LLMs, RAG pipelines, vector search, speech recognition, OCR, and FastAPI microservices.</h1>
-<h3 align="center">Currently working on Arabic LLM fine-tuning, LegalTech AI pipelines, and voice-enabled learning systems. Exploring modern AI research, model optimization, and open-source integrations.</h3>
+# 👋 Hello, I'm Mostafa Emad
 
+**AI & Computer Vision Engineer** | **Full-Stack Developer** | **Open Source Enthusiast**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafa-emad77" alt="mostafa-emad77" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Advanced RAG architectures, KV Caching for LLMs & VLMs, LLM optimization, multilingual NLP (Arabic/English), production AI systems**
+## 🚀 About Me
 
-- 👯 I’m looking to collaborate on **Open-source NLP & RAG systems**
+I'm a passionate software engineer specializing in **AI, machine learning, computer vision, and full-stack web development**. I love building intelligent applications that solve real-world problems using cutting-edge technologies.
 
-- Ask me about **NLP, RAG pipelines, Arabic LLMs, vector databases (FAISS, Qdrant), OCR, speech recognition, FastAPI, AI SaaS backends**
+- 🎓 Currently focused on AI-powered solutions and computer vision applications
+- 💡 Interested in Natural Language Processing, Computer Vision, and Web Technologies
+- 🌍 Based in Egypt
+- 📧 **Contact:** Mostafa.maroof@hotmail.com | **Phone:** +201014825707
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mostafa-emad-al-din-5361831b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mostafa-emad-al-din-5361831b9/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 💼 Featured Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-emad77&show_icons=true&locale=en&layout=compact" alt="mostafa-emad77" /></p>
+### 🎨 [Gesture-Based Drawing Application](https://github.com/Mostafa-Emad77/Gesture-Based-Drawing-Application)
+An interactive drawing application that allows you to create artwork using hand gestures. The application uses computer vision to track your hand movements and translate them into drawing actions.
+- **Tech Stack:** Python, OpenCV, Computer Vision
+- **Key Features:** Real-time hand tracking, gesture recognition, drawing canvas
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa-emad77&show_icons=true&locale=en" alt="mostafa-emad77" /></p>
+### 🤖 [CareerGenie](https://github.com/Mostafa-Emad77/CareerGenie)
+An AI-powered platform that analyzes CVs to match candidates with the best job opportunities based on their skills and experience.
+- **Tech Stack:** Python, Machine Learning, NLP
+- **Key Features:** CV analysis, skill extraction, job matching
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-emad77&" alt="mostafa-emad77" /></p>
+### 📄 [Egyptian ID Extraction](https://github.com/Mostafa-Emad77/Egyptian-ID-Extraction)
+Automated extraction of text data from Egyptian ID cards using preprocessing, image alignment, ROI extraction, and OCR.
+- **Tech Stack:** Python, OpenCV, Tesseract OCR
+- **Key Features:** Image preprocessing, OCR, data extraction
 
+### 🔍 [Legal CV Matching API System](https://github.com/experto-witness/Legal-CV-Matching-API-system)
+AI-powered CV matching system for legal recruitment combining document parsing, skill extraction, and semantic search.
+- **Tech Stack:** Python, FastAPI, Semantic Search
+- **Key Features:** Resume parsing, skill extraction, semantic matching
+
+### 🎓 [Little Teacher - AI Interactive PDF Chatbot](https://github.com/Mostafa-Emad77/Little-Teacher-AI-Powered-Interactive-PDF-Chatbot)
+An interactive Streamlit web app that transforms any PDF into a child-friendly, AI-powered learning experience.
+- **Tech Stack:** Python, Streamlit, LLMs
+- **Key Features:** PDF processing, AI Q&A, voice interaction (Arabic & English)
+
+### 🗣️ [Arabic Speech-to-SQL Voice Assistant](https://github.com/Mostafa-Emad77/Arabic-Speech-to-SQL-Voice-Assistant)
+An open-source Arabic voice assistant with speech recognition, database integration, and web interface.
+- **Tech Stack:** Python, MySQL, HTML, Speech Recognition
+- **Key Features:** Arabic NLP, voice commands, database queries, web UI
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**
+- Python, HTML, JavaScript
+
+**AI & ML:**
+- Machine Learning, Natural Language Processing (NLP), Computer Vision, OpenCV, OCR
+
+**Frameworks & Libraries:**
+- Streamlit, FastAPI, TensorFlow, PyTorch
+
+**Databases:**
+- MySQL, PostgreSQL
+
+**Tools & Technologies:**
+- Git, GitHub, Docker, REST APIs
+
+---
+
+## 📊 GitHub Statistics
+
+[![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mostafa-Emad77&show_icons=true&theme=radical)](https://github.com/mostafa-emad77)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Emad77&layout=compact&theme=radical)](https://github.com/mostafa-emad77)
+
+---
+
+## 🤝 Let's Connect!
+
+- **LinkedIn:** [Mostafa Emad Al Din](https://www.linkedin.com/in/mostafa-emad-al-din-5361831b9/)
+- **Email:** [Mostafa.maroof@hotmail.com](mailto:Mostafa.maroof@hotmail.com)
+- **Phone:** [+201014825707](tel:+201014825707)
+
+---
+
+## 📝 License
+
+Most of my projects are open source and available under appropriate licenses. Feel free to explore, fork, and contribute!
+
+---
+
+**⭐ If you find my projects interesting, please consider giving them a star!**
