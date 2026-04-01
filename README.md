@@ -45,13 +45,6 @@ Based in Egypt. I specialize in natural‑language processing and enjoy building
 
 ---
 
-## GitHub Statistics  
-
-[![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mostafa-Emad77&show_icons=true&theme=radical)](https://github.com/Mostafa-Emad77)  
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Emad77&layout=compact&theme=radical)](https://github.com/Mostafa-Emad77)
-
----
 
 ## License  
 
