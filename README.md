@@ -21,70 +21,27 @@ I have a particular interest in **Arabic and multilingual AI**, especially speec
 
 ---
 
-## Featured Projects
+## GitHub Activity
 
-### AuditMind — Bilingual Agentic Financial Auditor
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Mostafa-Emad77&show_icons=true&hide_border=true&include_all_commits=true"
+    alt="Mostafa's GitHub Stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Emad77&layout=compact&hide_border=true"
+    alt="Mostafa's Top Languages"
+    height="165"
+  />
+</p>
 
-A production-oriented **Arabic/English financial document auditing system** combining hybrid retrieval, knowledge graphs, and agentic workflows.
-
-**Highlights**
-- Hybrid **Qdrant vector search + Neo4j knowledge graph**
-- Multi-stage **LangGraph audit pipeline**
-- Cross-document contradiction detection and validation
-- Confidence-gated findings and bounded replanning
-- Concurrent document processing and LLM adjudication
-- Extensive automated backend testing
-
-**Tech:** `Python` `FastAPI` `LangGraph` `Qdrant` `Neo4j` `Redis` `Next.js`
-
----
-
-### Naqta — Arabic Punctuation Restoration
-
-Arabic punctuation restoration model based on **XLM-RoBERTa-large**.
-
-- **97.14% token accuracy**
-- **Macro F1 ≈ 0.896**
-- Evaluated on a held-out dataset containing **5M+ tokens**
-- Trained across multiple experimental runs with focal loss and rare-class handling
-- Published as a research paper on **SSRN (2026)**
-
-**Tech:** `PyTorch` `Hugging Face` `XLM-RoBERTa` `Arabic NLP`
-
----
-
-### Fahim (فهيم) — Arabic Speech-to-SQL Voice Assistant
-
-A fully local Arabic voice assistant that converts spoken natural-language questions into secure SQL queries.
-
-**Pipeline**
-
-`Arabic Speech → ASR → LLM → SQL Validation → Database → Arabic Response → TTS`
-
-**Highlights**
-- Fully local inference with **zero cloud dependency**
-- faster-whisper ASR with INT8 inference
-- Local LLM serving through Ollama
-- SQL validation using regex + AST parsing
-- Prompt-injection protection
-- Automatic schema generation from uploaded CSV/Excel datasets
-
-**Tech:** `FastAPI` `faster-whisper` `Ollama` `SQLGlot` `MySQL` `TTS`
-
----
-
-### Multilingual Offline Voice Command Recognition
-
-Built lightweight speech-command models for **English, French, Mooré, Dioula, and Fulfulde** for an offline voice-first learning application.
-
-- Designed for **on-device Android inference**
-- Optimized compact speech models
-- INT8 model deployment using **TFLite**
-- Built for low-resource multilingual speech scenarios
-
-**Tech:** `TensorFlow` `DS-CNN` `TFLite` `Speech Processing`
-
----
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Mostafa-Emad77&hide_border=true"
+    alt="Mostafa's GitHub Streak"
+  />
+</p>
 
 ## Production AI Experience
 
