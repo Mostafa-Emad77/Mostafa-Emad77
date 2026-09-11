@@ -24,24 +24,21 @@ I have a particular interest in **Arabic and multilingual AI**, especially speec
 ## GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Mostafa-Emad77&show_icons=true&hide_border=true&include_all_commits=true"
-    alt="Mostafa's GitHub Stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Emad77&layout=compact&hide_border=true"
-    alt="Mostafa's Top Languages"
-    height="165"
-  />
+  <a href="https://github.com/Mostafa-Emad77">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mostafa-Emad77&theme=github_dark"
+      alt="Mostafa Emad's GitHub Profile Summary"
+    />
+  </a>
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Mostafa-Emad77&hide_border=true"
-    alt="Mostafa's GitHub Streak"
-  />
-</p>
+---
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/mostafa-emad-al-din-5361831b9/)
+- [Hugging Face](https://huggingface.co/MostafaMaroof)
+- Email: Mostafa.maroof@hotmail.com
 
 ## Production AI Experience
 
