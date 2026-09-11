@@ -97,12 +97,6 @@ Edge AI
 
 ---
 
-## Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/mostafa-emad-al-din-5361831b9/)
-- [Hugging Face](https://huggingface.co/MostafaMaroof)
-- Mostafa.maroof@hotmail.com
-
 ---
 
 > I enjoy building AI systems that go beyond demos — models and applications designed around real deployment constraints, measurable performance, and reliable production behavior.
